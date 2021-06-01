@@ -1,0 +1,12 @@
+node_modules
+.DS_Store
+cypress/videos
+cypress/screenshots
+cypress/downloads
+cypress/reports
+cypress.env.json
+test-results/
+.env
+rewrite-commits.sh
+
+
