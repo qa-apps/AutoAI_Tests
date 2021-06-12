@@ -1,0 +1,29 @@
+{
+  "name": "autoai_tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Use: npm run cy:run or npm run cy:open\"",
+    "cy:open": "cypress open",
+    "cy:run": "cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qa-apps/AutoAI_Tests.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/qa-apps/AutoAI_Tests/issues"
+  },
+  "homepage": "https://github.com/qa-apps/AutoAI_Tests#readme",
+  "devDependencies": {
+    "cypress": "^15.7.0"
+  }
+}
