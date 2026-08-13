@@ -10,3 +10,14 @@ test-results/
 rewrite-commits.sh
 
 
+.codex/
+AGENTS.md
+graphify-out/
+.idea/
+*.log
+temp_*.md
+temp_*.txt
+screenshot.png
+.claude/settings.local.json
+.claude/launch.json
+final-26-commits.sh
